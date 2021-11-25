@@ -11,4 +11,4 @@ That way you can see quick, if the runner is modified or an original wine-stagin
 Possible needed modifications are always posted in the release notes of each runner.
 
 Check the **releases** for downloads:
-https://github.com/rawfoxDE/raw-wine/releases
+https://github.com/starcitizen-lug/raw-wine/releases
