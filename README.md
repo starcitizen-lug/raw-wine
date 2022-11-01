@@ -9,6 +9,8 @@ Runners, wich are a native wine-staging, unmodified and working with SC, have (S
 Runners wich need a modified wine-staging version, because a native wine can not run SC, have (rAWwINe) in their version string.
 That way you can see quick, if the runner is modified or an original wine-staging.
 Possible needed modifications are always posted in the release notes of each runner.
+The current Wine release notes can be found here:
+https://www.winehq.org
 
 Check the **releases** for downloads:
 https://github.com/starcitizen-lug/raw-wine/releases
